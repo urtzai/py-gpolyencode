@@ -1,6 +1,6 @@
 import math
 try:
-    from cStringIO import StringIO
+    from StringIO import StringIO
 except:
     from io import StringIO
 
